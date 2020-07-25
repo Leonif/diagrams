@@ -1,20 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2020-07-25T21:27:54.378Z" agent="5.0 (Macintosh)" etag="KQcriu0CgXVHZVYntZk5" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-25T22:06:13.952Z" agent="5.0 (Macintosh)" etag="GbWymbmpbkvStxTI3p2x" version="13.5.3" type="github">
   <diagram id="rtUFhnHfVkmdgCKiVbLg" name="Page-1">
-    <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-2" value="car" style="html=1;rounded=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="70" y="260" width="110" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-7" value="Car" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="310" y="240" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-8" value="+ driver: Driver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XLIEqjVTJcQ9Hxrh4OFE-7" vertex="1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
-        </mxCell>
-        <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="XLIEqjVTJcQ9Hxrh4OFE-7" vertex="1">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
         </mxCell>
         <mxCell id="dVh-cQnbFa3Bi1Yiwp9G-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;orthogonalLoop=1;jettySize=auto;html=1;startFill=0;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLIEqjVTJcQ9Hxrh4OFE-4" target="XLIEqjVTJcQ9Hxrh4OFE-7">
           <mxGeometry relative="1" as="geometry">
@@ -26,8 +17,29 @@
             <mxPoint x="580" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="dVh-cQnbFa3Bi1Yiwp9G-14" value="Relation" style="endArrow=open;html=1;endSize=12;startArrow=diamondThin;startSize=14;startFill=0;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="XLIEqjVTJcQ9Hxrh4OFE-7" target="XLIEqjVTJcQ9Hxrh4OFE-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="400" as="sourcePoint" />
+            <mxPoint x="700" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dVh-cQnbFa3Bi1Yiwp9G-15" value="1..1" style="edgeLabel;resizable=0;html=1;align=left;verticalAlign=top;" connectable="0" vertex="1" parent="dVh-cQnbFa3Bi1Yiwp9G-14">
+          <mxGeometry x="-1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="dVh-cQnbFa3Bi1Yiwp9G-16" value="1" style="edgeLabel;resizable=0;html=1;align=right;verticalAlign=top;" connectable="0" vertex="1" parent="dVh-cQnbFa3Bi1Yiwp9G-14">
+          <mxGeometry x="1" relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-7" value="Car" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
+          <mxGeometry x="254" y="210" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-8" value="+ driver: Driver" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="XLIEqjVTJcQ9Hxrh4OFE-7" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-9" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="XLIEqjVTJcQ9Hxrh4OFE-7" vertex="1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
         <mxCell id="XLIEqjVTJcQ9Hxrh4OFE-3" value="Driver" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="500" y="82" width="160" height="60" as="geometry">
+          <mxGeometry x="510" y="130" width="160" height="60" as="geometry">
             <mxRectangle x="480" y="82" width="70" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
