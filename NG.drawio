@@ -1,19 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2020-07-27T05:42:15.944Z" agent="5.0 (Macintosh)" etag="ug_bTZl5tAqlCfEgJ675" version="13.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-07-27T06:02:53.708Z" agent="5.0 (Macintosh)" etag="LFJka3UWyCMUTmCzUjoD" version="13.5.3" type="github">
   <diagram id="NpTB6iebM1gEKICk_4uf" name="Layers">
-    <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="786" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-4" value="Presentation Layer" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
-          <mxGeometry x="130" y="150" width="170" height="240" as="geometry" />
-        </mxCell>
-        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-3" value="Errors" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="140" y="190" width="70" height="50" as="geometry" />
-        </mxCell>
+        <mxCell id="1" style="" parent="0" />
         <mxCell id="jDUbfOW1Vs5yL3JEmUPx-5" value="Application Layer" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="1">
           <mxGeometry x="350" y="150" width="210" height="200" as="geometry" />
         </mxCell>
-        <object label="Managers" testProperty="" id="jDUbfOW1Vs5yL3JEmUPx-6">
+        <object label="Managers" id="jDUbfOW1Vs5yL3JEmUPx-6">
           <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
             <mxGeometry x="370" y="200" width="70" height="50" as="geometry" />
           </mxCell>
@@ -27,17 +21,31 @@
         <mxCell id="jDUbfOW1Vs5yL3JEmUPx-11" value="Configurator" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="370" y="260" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-13" value="Utils" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="220" y="190" width="70" height="50" as="geometry" />
+        <object label="Managers" id="jDUbfOW1Vs5yL3JEmUPx-17">
+          <mxCell style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
+            <mxGeometry x="290" y="480" width="130" height="100" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="90" y="165" width="170" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-14" value="Coordinators" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="220" y="250" width="70" height="50" as="geometry" />
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-4" value="Presentation Layer" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;verticalAlign=top;" vertex="1" parent="jDUbfOW1Vs5yL3JEmUPx-19">
+          <mxGeometry width="170" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-15" value="Modules" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="140" y="250" width="70" height="50" as="geometry" />
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-3" value="Errors" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="jDUbfOW1Vs5yL3JEmUPx-19">
+          <mxGeometry x="10" y="40" width="70" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-16" value="Common" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="1">
-          <mxGeometry x="140" y="310" width="70" height="50" as="geometry" />
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-13" value="Utils" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="jDUbfOW1Vs5yL3JEmUPx-19">
+          <mxGeometry x="90" y="40" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-14" value="Coordinators" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="jDUbfOW1Vs5yL3JEmUPx-19">
+          <mxGeometry x="90" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-15" value="Modules" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="jDUbfOW1Vs5yL3JEmUPx-19">
+          <mxGeometry x="10" y="100" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="jDUbfOW1Vs5yL3JEmUPx-16" value="Common" style="shape=folder;fontStyle=1;spacingTop=10;tabWidth=40;tabHeight=14;tabPosition=left;html=1;fontSize=10;" vertex="1" parent="jDUbfOW1Vs5yL3JEmUPx-19">
+          <mxGeometry x="10" y="160" width="70" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
