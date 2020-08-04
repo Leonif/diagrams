@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-04T09:42:40.000Z" agent="5.0 (Macintosh)" etag="UVfOC0UVk3FpobWomNsw" version="13.5.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2020-08-04T09:45:29.214Z" agent="5.0 (Macintosh)" etag="qG-A-q2jFoE7i_bAruK7" version="13.5.7" type="github" pages="3">
   <diagram id="NpTB6iebM1gEKICk_4uf" name="Layers">
     <mxGraphModel dx="735" dy="500" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="1" shadow="0">
       <root>
@@ -168,10 +168,10 @@
         <mxCell id="Vn4q-5JebDvAsTWxFXe4-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vn4q-5JebDvAsTWxFXe4-1" source="Vn4q-5JebDvAsTWxFXe4-5" target="Vn4q-5JebDvAsTWxFXe4-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vn4q-5JebDvAsTWxFXe4-5" value="A" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
+        <mxCell id="Vn4q-5JebDvAsTWxFXe4-5" value="A: you can trade" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
           <mxGeometry x="490" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Vn4q-5JebDvAsTWxFXe4-7" value="Lite скрываем" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#36393d;fontColor=#666666;fillColor=#FFFFFF;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
+        <mxCell id="Vn4q-5JebDvAsTWxFXe4-7" value="Lite скрываем" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#666666;fillColor=#FFFFFF;strokeColor=#FF3333;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
           <mxGeometry x="530" y="340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vn4q-5JebDvAsTWxFXe4-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vn4q-5JebDvAsTWxFXe4-1" source="Vn4q-5JebDvAsTWxFXe4-9" target="Vn4q-5JebDvAsTWxFXe4-11">
@@ -189,7 +189,7 @@
         <mxCell id="Vn4q-5JebDvAsTWxFXe4-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="Vn4q-5JebDvAsTWxFXe4-1" source="Vn4q-5JebDvAsTWxFXe4-13" target="Vn4q-5JebDvAsTWxFXe4-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Vn4q-5JebDvAsTWxFXe4-13" value="WO, D" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
+        <mxCell id="Vn4q-5JebDvAsTWxFXe4-13" value="WO, D: Registred completed" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
           <mxGeometry x="240" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Vn4q-5JebDvAsTWxFXe4-15" value="Upgrade показываем" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;fontColor=#FFFFFF;" vertex="1" parent="Vn4q-5JebDvAsTWxFXe4-1">
