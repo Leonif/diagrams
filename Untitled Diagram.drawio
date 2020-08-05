@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-05T06:54:14.404Z" agent="5.0 (Macintosh)" etag="KPYlJq0RSSwlJ2rYuQbH" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-05T06:57:55.227Z" agent="5.0 (Macintosh)" etag="jmc_Xjacjswcjn_6T4e9" version="13.5.9" type="github">
   <diagram id="rtUFhnHfVkmdgCKiVbLg" name="Page-1">
     <mxGraphModel dx="980" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,7 +13,7 @@
         <mxCell id="FlKFB4eoCFlWuuvvBIy5-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FlKFB4eoCFlWuuvvBIy5-3" target="FlKFB4eoCFlWuuvvBIy5-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FlKFB4eoCFlWuuvvBIy5-3" value="Добавляем сцену" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="FlKFB4eoCFlWuuvvBIy5-3" value="Добавляем сцену" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#000000;fontColor=#FFFFFF;sketch=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="40" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FlKFB4eoCFlWuuvvBIy5-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="FlKFB4eoCFlWuuvvBIy5-5" target="FlKFB4eoCFlWuuvvBIy5-15">
@@ -37,7 +37,7 @@
         <mxCell id="FlKFB4eoCFlWuuvvBIy5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FlKFB4eoCFlWuuvvBIy5-11" target="FlKFB4eoCFlWuuvvBIy5-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FlKFB4eoCFlWuuvvBIy5-11" value="создаем класс Apple" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="FlKFB4eoCFlWuuvvBIy5-11" value="создаем класс Apple" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#f8cecc;strokeColor=#b85450;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="FlKFB4eoCFlWuuvvBIy5-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="FlKFB4eoCFlWuuvvBIy5-13" target="FlKFB4eoCFlWuuvvBIy5-18">
@@ -49,11 +49,11 @@
         <mxCell id="FlKFB4eoCFlWuuvvBIy5-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;" edge="1" parent="1" source="FlKFB4eoCFlWuuvvBIy5-15" target="FlKFB4eoCFlWuuvvBIy5-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FlKFB4eoCFlWuuvvBIy5-15" value="Создаем кнопки" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="FlKFB4eoCFlWuuvvBIy5-15" value="Создаем кнопки" style="whiteSpace=wrap;html=1;rounded=1;strokeColor=#2D7600;fontColor=#ffffff;fillColor=#999999;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="40" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="FlKFB4eoCFlWuuvvBIy5-18" value="Создаем сегмент змеи" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        <mxCell id="FlKFB4eoCFlWuuvvBIy5-18" value="Создаем сегмент змеи" style="whiteSpace=wrap;html=1;rounded=1;fontColor=#ffffff;fillColor=#1ba1e2;strokeColor=#006EAF;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
