@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-08-07T07:07:42.610Z" agent="5.0 (Macintosh)" etag="T_WDgkeBcx4J5ykBmSkE" version="13.5.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-07T09:03:53.173Z" agent="5.0 (Macintosh)" etag="7W6FeHXfVtAmAa2KwWOe" version="13.5.9" type="github">
   <diagram id="rtUFhnHfVkmdgCKiVbLg" name="Snake">
     <mxGraphModel dx="980" dy="667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -120,6 +120,9 @@
         <mxCell id="sQ0nPkpXrDJ02ECzJhpP-16" value="&lt;div&gt;Добавляем в обработчик&lt;/div&gt;&lt;div&gt; касаний&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;shadow=1;sketch=0;fillColor=#FFFFFF;direction=west;align=center;" vertex="1" parent="1">
           <mxGeometry x="500" y="400" width="130" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQ0nPkpXrDJ02ECzJhpP-18" target="sQ0nPkpXrDJ02ECzJhpP-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="sQ0nPkpXrDJ02ECzJhpP-18" value="&lt;div&gt;Добавляем &lt;br&gt;&lt;/div&gt;&lt;div&gt;физику&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="340" y="400" width="120" height="60" as="geometry" />
         </mxCell>
@@ -145,6 +148,24 @@
         </mxCell>
         <mxCell id="sQ0nPkpXrDJ02ECzJhpP-25" value="Физ тело для сегмента" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="520" y="555" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-27" value="Описываем стокновения" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="180" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQ0nPkpXrDJ02ECzJhpP-29" target="sQ0nPkpXrDJ02ECzJhpP-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-29" value="Описываем стокновения" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="30" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="sQ0nPkpXrDJ02ECzJhpP-30" target="sQ0nPkpXrDJ02ECzJhpP-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-30" value="Добавляем категории" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="190" y="680" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="sQ0nPkpXrDJ02ECzJhpP-32" value="Добавляем маски столкновений" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="354" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
